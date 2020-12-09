@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2018 The LineageOS Project
+# Copyright (C) 2020 AICP
 #
 # Licensed under the Apache License, Version 2.0 (the 
 # "License"); you may not use this file except in 
@@ -16,7 +16,7 @@
 # the License for the specific language governing 
 # permissions and limitations under the License.
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_h811.mk
+    $(LOCAL_DIR)/aicp_h811.mk
 
 # Screen density
 # must be defined here as they get readonly later on
